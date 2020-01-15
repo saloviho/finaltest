@@ -1,0 +1,16 @@
+<link rel="stylesheet" href="styles.css">
+<h2> Invoice (1) due to 1.2.2020 </h2>
+
+<h3> Customer </h3>
+John Doe (12345678)
+360 Huntington Ave, Boston, MA 02115
+
+<h3> Items </h3>
+- PC (qty: 2, pu: 1100.0, tax: 7%) ... 2354.00
+- Monitor (qty: 2, pu: 500.0, tax: 0%) ... 1000.00
+- Installation (duration: 90, contractors: 2, rate: 25.0/hour, tax: 21%) ... 90.75
+
+<h3> Summary </h3>
+Price for items: 3444.75
+Total due: 3616.99
+Payment type: Credit Card
